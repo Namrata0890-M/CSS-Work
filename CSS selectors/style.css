@@ -1,0 +1,18 @@
+p{color:red;}
+
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+.note{
+font-size:20px;}
+
+#id-selector-demo
+{
+colcor : green;}
+
+li[value="4"]{color:blue;}
+
+*{text-align: center;}
